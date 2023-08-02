@@ -3,22 +3,22 @@
     {
       "id": 1,
       "title": "SCP1",
-      "content": "scp",
+      "content": "aslan",
     },
     {
       "id": 2,
       "title": "SCP2",
-      "content": "scp",
+      "content": "kaplan",
     },
     {
       "id": 3,
       "title": "SCP3",
-      "content": "scp",
+      "content": "kedi",
     },
     {
       "id": 4,
       "title": "SCP4",
-      "content": "scp"
+      "content": "leopar"
     }
   ],
   "success": 1
