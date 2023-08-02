@@ -1,0 +1,25 @@
+{
+  "blogger#postList": [
+    {
+      "id": 1,
+      "title": "SCP1",
+      "content": "scp",
+    },
+    {
+      "id": 2,
+      "title": "SCP2",
+      "content": "scp",
+    },
+    {
+      "id": 3,
+      "title": "SCP3",
+      "content": "scp",
+    },
+    {
+      "id": 4,
+      "title": "SCP4",
+      "content": "scp"
+    }
+  ],
+  "success": 1
+}
